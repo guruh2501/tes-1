@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/guruh2501/tes-1/issues"
   },
-  "homepage": "https://github.com/guruh2501/tes-1#readme"
+  "homepage": "https://github.com/guruh2501/tes-1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
